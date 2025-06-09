@@ -1,4 +1,4 @@
-![[mandelbrot.png]]
+![OpenGL rendering of the Mandelbrot set.](mandelbrot.png)
 
 # Mandelbrot set explorer
 
